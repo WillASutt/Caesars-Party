@@ -1,0 +1,6 @@
+Potential variables in Caesar Cipher:
+
+1. partyLocation
+2. shiftNumber
+3. encryptMessage
+4. decryptMessage
